@@ -1,0 +1,10 @@
+{
+  "name": "udaan",
+  "version": "1.0.0",
+  "description": "Drive Udaan's resume/job flows (parse, tailor, Deep Analysis, Fit Check, term alignment, cover letters, humanizing) via MCP, using your own model instead of an API key stored in the app.",
+  "author": {
+    "name": "Pranav Raut"
+  },
+  "repository": "https://github.com/Pranavraut033/udaan-plugin",
+  "license": "MIT"
+}

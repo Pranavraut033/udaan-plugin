@@ -1,0 +1,16 @@
+{
+  "name": "udaan",
+  "owner": {
+    "name": "Pranav Raut"
+  },
+  "metadata": {
+    "description": "Claude Code plugin for the Udaan local-first resume builder."
+  },
+  "plugins": [
+    {
+      "name": "udaan",
+      "source": "./",
+      "description": "Drive the Udaan desktop app's resume and job flows from Claude."
+    }
+  ]
+}

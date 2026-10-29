@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "resume-builder": {
+      "command": "${HOME}/.udaan/bin/udaan-mcp"
+    }
+  }
+}
